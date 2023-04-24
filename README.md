@@ -1,4 +1,4 @@
-# Code-Change
+# Coin-Change
 
 Use dynamic programming
 
